@@ -49,6 +49,9 @@ namespace BeaconDemo
 					this.textView.Text += String.Format("[{0:T}] Beacon Ranged: Major = {1}, Minor = {2}\n", DateTime.Now,  b.Major, b.Minor);
 				}
 			};
+
+			locationManager.StartMonitoring (region);
+			locationManager.StartRangingBeacons (region);
 		}
 	}
 }
