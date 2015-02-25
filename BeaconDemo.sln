@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeaconDemo", "BeaconDemo\BeaconDemo.csproj", "{EE4AD17E-8DAE-43F1-A0B3-BB7E8D9D41A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE4AD17E-8DAE-43F1-A0B3-BB7E8D9D41A8}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{EE4AD17E-8DAE-43F1-A0B3-BB7E8D9D41A8}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{EE4AD17E-8DAE-43F1-A0B3-BB7E8D9D41A8}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{EE4AD17E-8DAE-43F1-A0B3-BB7E8D9D41A8}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{EE4AD17E-8DAE-43F1-A0B3-BB7E8D9D41A8}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{EE4AD17E-8DAE-43F1-A0B3-BB7E8D9D41A8}.Debug|iPhone.Build.0 = Debug|iPhone
+		{EE4AD17E-8DAE-43F1-A0B3-BB7E8D9D41A8}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{EE4AD17E-8DAE-43F1-A0B3-BB7E8D9D41A8}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{EE4AD17E-8DAE-43F1-A0B3-BB7E8D9D41A8}.Release|iPhone.ActiveCfg = Release|iPhone
+		{EE4AD17E-8DAE-43F1-A0B3-BB7E8D9D41A8}.Release|iPhone.Build.0 = Release|iPhone
+		{EE4AD17E-8DAE-43F1-A0B3-BB7E8D9D41A8}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{EE4AD17E-8DAE-43F1-A0B3-BB7E8D9D41A8}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
