@@ -29,6 +29,7 @@ namespace BeaconDemo
 			region.NotifyOnEntry = true;
 			region.NotifyOnExit = true;
 
+			// Request authorization to use location services when app is open.
 			locationManager.RequestWhenInUseAuthorization ();
 
 			locationManager.RegionEntered += (object sender, CLRegionEventArgs e) => {
